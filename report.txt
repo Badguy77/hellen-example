@@ -1,0 +1,1 @@
+将符号 molex_48PIN_MER1 由 '48pib-ljq:48pin-ljq' 更新到 '48pib-ljq:48pin-ljq': OK
